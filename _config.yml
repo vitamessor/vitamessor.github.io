@@ -1,8 +1,1 @@
-permalink: /:year/:month/:day/:title.html
-markdown: rdiscount
-author: vitamessor
-title: EAON
-keywords: programming, data, machine learning, elizabeth ozimek-newman, vitamessor
-url: http://eaon.me
-paginate: 6
-pygments: false
+permalink: /notes/:year/:month/:day/:title
