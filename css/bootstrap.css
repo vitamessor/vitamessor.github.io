@@ -370,7 +370,7 @@ img {
 .img-circle {
   border-radius: 50%;
   -webkit-box-shadow: 10px 10px 10px rgba(0, 0, 0, .2);
-  -moz-box-shadow: 10pc 10px 10px rgba(0, 0, 0, .2);
+  -moz-box-shadow: 10px 10px 10px rgba(0, 0, 0, .2);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, .2);
 }
 
