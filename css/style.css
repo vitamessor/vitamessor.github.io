@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(../fonts/stylesheet.css);
 
 body { padding-top: 20px; padding-bottom: 40px; font-family: 'josefin_sansregular', Veranda, sans-serif; font-size: 16px; }
 
