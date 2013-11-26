@@ -43,3 +43,15 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'josefin_sanssemibold';
+    src: url('josefinsans-semibold-webfont.eot');
+    src: url('josefinsans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('josefinsans-semibold-webfont.woff') format('woff'),
+         url('josefinsans-semibold-webfont.ttf') format('truetype'),
+         url('josefinsans-semibold-webfont.svg#josefin_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
