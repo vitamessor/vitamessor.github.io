@@ -52,11 +52,11 @@ iframe {font-family: 'Merriweather', Georgia, Times; font-size: 16px;}
 /* About */
 .about ul.list-unstyled li { line-height: 30px; text-indent: -30px; margin-left: 30px;}
 
-.indent-med{
+.indent_medium{
 	margin-left: 20px;
 	font-size: 14px;
 }
-.indent-small{
+.indent_small{
 	margin-left: 20px;
 	font-size: 12px;
 }
